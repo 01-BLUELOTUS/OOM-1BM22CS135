@@ -1,6 +1,6 @@
 # OOM-1BM22CS135
 
-## Experiments and Applications
+## EXPERIMENTS AND APPLICATIONS
 
 ### Part-A: Application Problems to be Considered
 
